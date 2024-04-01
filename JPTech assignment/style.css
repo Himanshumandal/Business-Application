@@ -1,0 +1,147 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #b1e3f7;
+    font-family:quicksand;
+    margin-left: 20px;
+    height: 990px;
+}
+
+.form{
+   margin-bottom: 40px;
+    color:#24457b;
+    font-weight:thin;
+
+
+    
+}
+.form-group{
+    margin-bottom:3px;
+    font-size: 15px;
+    font-weight: 900;
+    padding-left: 10px;
+    color:#24457b;
+}
+
+#bname{
+    height: 70px;
+    margin-left: 10px;
+    width: 80%;
+    border: 1px solid rgb(203, 217, 0);
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    
+}
+
+#bemail{
+    height: 40px;
+    width: 80%;
+    border: 1px solid rgb(203, 217, 0);
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+span{
+    color: red;
+}
+#bphone{
+    height: 40px;
+    width: 80%;
+    border: 1px solid rgb(203, 217, 0);
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.a1{
+    height: 40px;
+    width: 80%;
+    border: 1px solid rgb(203, 217, 0);
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.a2{
+    height: 40px;
+    padding-left: 10px;
+    width: 39.5%;
+    border: 1px solid rgb(203, 217, 0);
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+label select{
+    height: 40px;
+    width: 40%;
+    margin-left: 10px;
+    border: 1px solid rgb(203, 217, 0);
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+
+H2{
+color:black;
+font-weight:thin;
+margin: 10px;
+}
+.name{
+    height: 40px;
+    width: 80%;
+    margin-left: 10px;
+    border: 1px solid rgb(203, 217, 0);
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+.sign{
+    height: 40px;
+    width: 80%;
+    margin-left: 10px;
+    border: 1px solid rgb(203, 217, 0);
+    border-radius: 5px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    text-decoration: underline;
+    
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn {
+    margin-top: 20px;
+  
+    border-radius: 20px;
+    background-color: #24457b;
+    color: #fff;
+    padding: 10px 20px;
+    border:none;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
